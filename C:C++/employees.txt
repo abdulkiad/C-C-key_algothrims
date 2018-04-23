@@ -1,0 +1,3 @@
+NAME		NAME		PERno		PHONEno		DEPART.		ROLE		SALARY
+abdul		salim		9436830		12345		vjf		sdfv		1234
+pekun		peks		9436830		12345		ds		ds		12345
